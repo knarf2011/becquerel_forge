@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.gradle/2.0/taskArtifacts/fileHashes.bin
+.gradle/2.0/taskArtifacts/cache.properties.lock
+.gradle/2.0/taskArtifacts/fileSnapshots.bin
+.gradle/2.0/taskArtifacts/outputFileStates.bin
+.gradle/2.0/taskArtifacts/taskArtifacts.bin
+.gradle/gradle.log
+.project
+.settings/org.eclipse.jdt.core.prefs
+eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location
